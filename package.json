@@ -1,22 +1,9 @@
 {
-  "name": "myfirstProjectOnAws",
-  "description": "My firat proj on AWS",
-  "version": "0.0.1",
-  "author": "Fred <Fred>",
-  "dependencies": {
-    "express": "*"
-  },
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/davidjgaunt4/nodejs.git"
-  },
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/davidjgaunt4/nodejs/issues"
+    "name": "application-name"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.5.8"
+    , "jade": ">= 0.0.1"
   }
 }
